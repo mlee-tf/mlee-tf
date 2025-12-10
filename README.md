@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike Lee
 - 👀 I’m interested in all things Cloudy
-- 🌱 I’m currently learning about GHE and CI/CD
+- 🌱 I’m currently driving GHE for CI/CD for Taylor Farms
 - 💞️ I’m looking to collaborate on developing game changing Solutions @ Taylor Farms
 - 📫 How to reach me MLee@TaylorFarms.com
 <!---
